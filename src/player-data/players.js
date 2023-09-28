@@ -1,0 +1,50 @@
+export const playersData = [
+    {
+        name: "Kylian Mbappé",
+        team: "PSG",
+        nationality: "France | Cameroun",
+        jerseyNumber: "10",
+        age: "24",
+        imageUrl: "https://www.footballdatabase.eu/images/photos/players/2022-2023/a_250/250043.jpg",
+    },
+    {
+        name: "Lionel Messi",
+        team: "Inter Miami",
+        nationality: "Argentine | Espagne",
+        jerseyNumber: "10",
+        age: "36",
+        imageUrl: "https://www.footballdatabase.eu/images/photos/players/2022-2023/a_10/10973.jpg",
+    },
+    {
+        name: "Erling Haaland",
+        team: "Manchester City",
+        nationality: "Norvége",
+        jerseyNumber: "9",
+        age: "23",
+        imageUrl: "https://www.footballdatabase.eu/images/photos/players/2022-2023/a_294/294600.jpg",
+    },
+    {
+        name: "Cristiano Ronaldo",
+        team: "Al Nassr Riyad",
+        nationality: "Portugal",
+        jerseyNumber: "7",
+        age: "38",
+        imageUrl: "https://www.footballdatabase.eu/images/photos/players/2022-2023/a_2/2058.jpg",
+    },
+    {
+        name: "karim Benzema",
+        team: "Al Ittihad Djeddah",
+        nationality: "France | Algérie",
+        jerseyNumber: "9",
+        age: "35",
+        imageUrl: "https://www.footballdatabase.eu/images/photos/players/a_11/11490.jpg",
+    },
+    {
+        name: "Harry Kane",
+        team: "Bayern Munich",
+        nationality: "Angleterre",
+        jerseyNumber: "9",
+        age: "30",
+        imageUrl: "https://www.footballdatabase.eu/images/photos/players/2022-2023/a_128/128531.jpg",
+    }
+];
